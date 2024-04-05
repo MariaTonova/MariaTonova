@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaTonova
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, JavaScript, CSS and Bootstrap 
+- 👀 I’m interested in Web development and Cloud Computing
+- 🌱 I’ve completed HTML, JavaScript, CSS and Bootstrap training
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me maria.tonova@outlook.com
 
