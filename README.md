@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 ☁️ Experienced Systems &amp; Cloud Engineer passionate about designing reliable, secure and innovative technology solutions.  
-🎓 MEng Computer Science (Distinction) with a strong background in software engineering, automation and problem solving.  
+🎓 MEng Computer Science (Distinction) with a strong background in automation and problem solving.  
 🌸 Passionate about Cloud Computing, DevOps, Infrastructure as Code, Kubernetes and modern cloud-native platforms.  
 🚀 Working with Azure, Docker, Terraform, Git, CI/CD, Python and Linux.  
 ✨ I believe technology is a blend of curiosity, creativity and engineering excellence.  
